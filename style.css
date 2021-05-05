@@ -1,0 +1,16 @@
+body{
+    font-family: Arial;
+    background-color: #070101;
+
+}
+
+.content{
+    background-color: rgb(71, 4, 4);
+    width:300px;
+    padding:40px;
+    position: absolute;
+    top:30%;
+    left: 30%;
+    
+    
+}
